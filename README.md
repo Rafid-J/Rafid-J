@@ -1,4 +1,9 @@
-## Hi there 👋
+# Welcome to my page 👋
+
+Welcome to my page! Thanks for stopping by.
+
+## How to reach me
+📧 Email: rafidWork@outlook.com
 
 <!--
 **Rafid-J/Rafid-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
