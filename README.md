@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+my+Page;Contact+me%3A+rafidWork%40outlook.com)](https://git.io/typing-svg)
 
-Welcome to my page! Thanks for stopping by.
-
 ## How to reach me
 📧 Email: rafidWork@outlook.com
 
